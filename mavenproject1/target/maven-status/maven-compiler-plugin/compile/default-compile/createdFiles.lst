@@ -1,0 +1,4 @@
+com\websockets\whiteboard\MyWhiteboard.class
+com\websockets\whiteboard\FigureEncoder.class
+com\websockets\whiteboard\Figure.class
+com\websockets\whiteboard\FigureDecoder.class
